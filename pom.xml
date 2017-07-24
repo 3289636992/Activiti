@@ -7,7 +7,7 @@
   <groupId>org.activiti</groupId>
   <artifactId>activiti-root</artifactId>
   <packaging>pom</packaging>
-  <version>7.0.0-SNAPSHOT</version>
+  <version>7.0.0-TESTRELEASE-SNAPSHOT</version>
   <properties>
     <!--configuration properties-->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
