@@ -9,7 +9,7 @@
   <parent>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-root</artifactId>
-    <version>7.0.0-TESTRELEASE</version>
+    <version>7.0.1-TESTRELEASE-SNAPSHOT</version>
   </parent>
 
   <properties>
