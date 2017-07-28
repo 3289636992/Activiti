@@ -6,7 +6,7 @@
   <groupId>org.activiti</groupId>
   <artifactId>activiti-root</artifactId>
   <packaging>pom</packaging>
-  <version>7.0.1-TESTRELEASE-SNAPSHOT</version>
+  <version>7.0.1-TESTRELEASE</version>
   <properties>
     <!--configuration properties-->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -876,6 +876,6 @@
     <url>https://github.com/Activiti/Activiti</url>
     <connection>scm:git:git@github.com:Activiti/Activiti.git</connection>
     <developerConnection>scm:git:git@github.com:Activiti/Activiti.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>activiti-7.0.1-TESTRELEASE</tag>
   </scm>
 </project>
